@@ -22,3 +22,5 @@
 2130	2863	7675935504022184	CMakeFiles/CubeMxTest.dir/Core/Src/system_stm32f4xx.c.obj	86c1f256c6eec4d5
 2093	2865	7675935504186611	CMakeFiles/CubeMxTest.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	898460c994c8bb4d
 2865	3121	7675935506784519	CubeMxTest.elf	2e59d5bdf9198c68
+12	346	7675939991986598	CMakeFiles/CubeMxTest.dir/Core/Src/main.c.obj	fc4120a348636420
+347	541	7675939993654748	CubeMxTest.elf	2e59d5bdf9198c68
