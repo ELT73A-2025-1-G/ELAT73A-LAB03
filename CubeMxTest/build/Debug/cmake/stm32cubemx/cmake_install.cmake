@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Aluno/Documents/Microcontrolados/helloblackpill_STM32F411_vscode/CubeMxTest/cmake/stm32cubemx
+# Install script for directory: C:/Users/Aluno/Documents/GitHub/ELAT73A-LAB03/CubeMxTest/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
